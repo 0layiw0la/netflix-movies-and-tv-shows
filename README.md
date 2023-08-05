@@ -6,3 +6,6 @@ Netflix is an American subscription video on-demand over-the-top streaming servi
 This report focuses on netflix viewer preferences across the globe, the patterns of when movies and TV shows are added to the platform, and aims to examine Netflix's content acquisition decisions.
 
 # Data source 
+The dataset was accessed from Kaggle. It consists of listings of all the movies and tv shows available on Netflix from 2008 till 2021, along with details such as - cast, directors, ratings, release year, duration, etc. You can view the dataset <a href ="https://www.kaggle.com/datasets/shivamb/netflix-shows">here</a>
+
+# Data cleaning
