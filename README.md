@@ -1,5 +1,8 @@
 # Netflix Movies And Tv Shows
 
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/2300ea8d-46e0-435b-ad8e-f376edaf4bb3)
+
+
 # Introduction 
 
 Netflix is an American subscription video on-demand over-the-top streaming service owned and operated by Netflix, Inc. The service primarily distributes films and television series produced by the media company of the same name from various genres, and it is available internationally in multiple languages.
@@ -20,5 +23,9 @@ Most of the content on netflix now are movies
 
 ![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/c82a14e4-f1ef-4759-a513-8a8d3f10a2e4)
 
-We can see generally Netflix has more movies than tv shows but now lets consider it by country.
+We can see generally Netflix has more movies than tv shows but now lets consider it by country. Netflix is a global company and as a result gets content from various countries, i will be focusing on the top ten for this analysis.
+
+###Top ten countries
+
+
 
