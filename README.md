@@ -26,6 +26,9 @@ Most of the content on netflix now are movies
 We can see generally Netflix has more movies than tv shows but now lets consider it by country. Netflix is a global company and as a result gets content from various countries, i will be focusing on the top ten for this analysis.
 
 ### Top ten countries
+The US, india, and the UK are the three largest content producers for netflix with the US having the largest number. Considering Netflix is an American company it makes sense most of it's content comes from the US.
+
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/b045ce98-fc68-4b5a-bd23-9d56a080b0a9)  
 
 
 
