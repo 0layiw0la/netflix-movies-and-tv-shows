@@ -17,3 +17,8 @@ There were also issues with the date added column. Some dates had months which w
 
 ## Movies vs TV Shows
 Most of the content on netflix now are movies
+
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/c82a14e4-f1ef-4759-a513-8a8d3f10a2e4)
+
+We can see generally Netflix has more movies than tv shows but now lets consider it by country.
+
