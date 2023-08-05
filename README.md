@@ -9,3 +9,11 @@ This report focuses on netflix viewer preferences across the globe, the patterns
 The dataset was accessed from Kaggle. It consists of listings of all the movies and tv shows available on Netflix from 2008 till 2021, along with details such as - cast, directors, ratings, release year, duration, etc. You can view the dataset <a href ="https://www.kaggle.com/datasets/shivamb/netflix-shows">here</a>
 
 # Data cleaning
+The dataset is of very good quality there were barely any data quality issues. 
+First i checked for duplicate values, there were none but i noticed there were some missing values in the column. Since the number of blanks were few so i replaced the empty columns with the most common country.
+There were also issues with the date added column. Some dates had months which were recorded using words others with numbers, some others even followed a different date format. Majority of the dates were recorded using the mm-dd-yy so i converted those recorded in other formats to that format, i also changed the months in words to numbers.
+
+# Insights
+
+## Movies vs TV Shows
+Most of the content on netflix now are movies
