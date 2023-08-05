@@ -30,5 +30,15 @@ The US, india, and the UK are the three largest content producers for netflix wi
 
 ![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/b045ce98-fc68-4b5a-bd23-9d56a080b0a9)  
 
+### Movie & Tv show distribution for the top ten countries
 
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/e48b88a9-529e-4ad2-9c4d-a165b40d181d)
 
+From this we can see that SOuth korea has alot more series than movies this can be attributed to the popularity of K-dramas, which have gained a massive following worldwide. The preference for TV series over movies in South Korea allows us see the importance of understanding and respecting regional content preferences.
+India on the other hand is the complete opposite with over 90% of content being movies, This could be due to bollywoods success worldwide.
+
+### Movies and Tv shows over the years
+
+Netflix became available worldwide in january 2016 and the increase in content acquisition is clear if we look at the graph below. Content addition seems to have slowed down in 2019 this is probably due to Covid-19's effect on the industry which caused a lot of films to pause shooting or postpone release dates.
+
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/2b1ea761-9dcd-4ac7-b079-fd33ec9c76fc)
