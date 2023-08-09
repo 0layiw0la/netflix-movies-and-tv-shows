@@ -46,3 +46,11 @@ Netflix became available worldwide in january 2016 and the increase in content a
 ## Most Popular Genres
 The three most popular genres on Netflix are drama, comedies and action adventure in order.
 
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/76c885c7-10e2-40cc-9dd3-ebbf222a2acb)
+
+### Viewer Demographics (AGE)
+Almost half the content on youtube is restricted to viewers 18 and above with 47% of shows being unsuitable for teenagers and 77% of shows being unsuitable for children. Netflix's target seems the be mostly older people.
+![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/ebfccb48-1a4f-4830-98bc-1024f76cb1ab)
+
+# Thanks for reading, i hope you enjoyed the report. :smile:
+
