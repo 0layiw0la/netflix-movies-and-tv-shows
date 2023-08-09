@@ -42,3 +42,7 @@ India on the other hand is the complete opposite with over 90% of content being 
 Netflix became available worldwide in january 2016 and the increase in content acquisition is clear if we look at the graph below. Content addition seems to have slowed down in 2019 this is probably due to Covid-19's effect on the industry which caused a lot of films to pause shooting or postpone release dates.
 
 ![image](https://github.com/0layiw0la/netflix-movies-and-tv-shows/assets/103042427/2b1ea761-9dcd-4ac7-b079-fd33ec9c76fc)
+
+## Most Popular Genres
+The three most popular genres on Netflix are drama, comedies and action adventure in order.
+
